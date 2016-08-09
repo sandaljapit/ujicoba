@@ -1,5 +1,5 @@
 <?php
   
-  echo "ini adalah script php";
+  echo "ini adalah script php";  
   
 ?>
